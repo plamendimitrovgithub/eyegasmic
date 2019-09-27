@@ -1,0 +1,17 @@
+{
+  "name": "eyegasmic",
+  "version": "0.0.1",
+  "description": "A package giving us the opportunity to display beautiful console.log()s.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console.log",
+    "colorful",
+    "eye",
+    "candy"
+  ],
+  "author": "Plamen Dimitrov",
+  "license": "MIT"
+}
