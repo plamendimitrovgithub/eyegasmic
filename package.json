@@ -1,6 +1,6 @@
 {
   "name": "eyegasmic",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A package giving us the opportunity to display beautiful console.log()s.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
   "keywords": [
     "console.log",
     "colorful",
-    "eye candy"
+    "eye candy",
+    "logging",
+    "debugging"
   ],
   "repository": {
     "type": "git",

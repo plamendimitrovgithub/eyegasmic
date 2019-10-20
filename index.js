@@ -39,9 +39,3 @@ export default () => {
 
     return new PrettyConsole();
 }
-
-// module.exports = initiatePretty;
-// export  initiatePretty;
-
-// const pretty = initiatePretty();
-// pretty.help();
